@@ -6,7 +6,6 @@ for(var i = 0; i < numberOfDrumButton; i++){
         makeSound(buttonSquare)
         
     })
-
 }
 
 
