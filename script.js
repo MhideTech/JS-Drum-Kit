@@ -4,7 +4,6 @@ for(var i = 0; i < numberOfDrumButton; i++){
         this.style.color = "#fff"
         var buttonSquare = this.innerHTML
         makeSound(buttonSquare)
-        
     })
 }
 
